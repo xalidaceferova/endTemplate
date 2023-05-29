@@ -1,0 +1,26 @@
+.add{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    input{
+        width: 200px;
+        height: 50px;
+        margin-top: 20px;
+    }
+}
+.error{
+    color: red;
+}
+.submit{
+    margin-top: 20px;
+    background-color: transparent;
+    color: blue;
+    padding: 10px;
+    border: 1px solid blue;
+    cursor: pointer;
+}
